@@ -9,7 +9,8 @@ latarray = ['0.00']
 lngarray = ['0.00']
 
 #weather api key
-wkey = "6e278acf96586726baea6eb280cee8cf"
+wkey = open('api.key', 'r').read().splitlines()[0]
+
 
 #zip parser
 with open('zip.csv', newline='') as csvfile:
