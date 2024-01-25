@@ -1,3 +1,6 @@
+**#DEPRECATED IN FAVOR OF WEATHERBOY**
+
+
 # weather-man
  a simple weather program
 
